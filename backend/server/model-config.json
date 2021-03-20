@@ -39,7 +39,7 @@
     "dataSource": "db"
   },
   "personne": {
-    "dataSource": "nidhaldb",
+    "dataSource": "db",
     "public": true
   }
 }
